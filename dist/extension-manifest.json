@@ -1,0 +1,17 @@
+{
+  "formatVersion": 1,
+  "id": "kubohiroyavisualtracking",
+  "blocks": [
+    {
+      "opcode": "hello",
+      "blockType": "REPORTER",
+      "arguments": [
+        {
+          "id": "NAME",
+          "type": "STRING"
+        }
+      ]
+    }
+  ],
+  "menus": []
+}
