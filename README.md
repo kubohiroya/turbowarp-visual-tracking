@@ -10,6 +10,8 @@ Currently provides only the template's `hello [NAME]` smoke-test block, a Vite b
 
 ## Planned implementation
 
+[The marker tracking provider design](docs/marker-tracking-provider.md) covers the first provider: 6-DoF pose for planar fiducial markers of known size, which is the part of the proposal below that can be built and verified now. It is not SLAM, and it publishes through a boundary the larger system can keep.
+
 See [the Japanese implementation proposal](README.ja.md) for responsibilities, dependencies, acceptance criteria and rollback. The proposal is also copied below so this entrypoint records the intended work.
 
 ### 目的
