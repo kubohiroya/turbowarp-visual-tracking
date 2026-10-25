@@ -1,5 +1,7 @@
 # TurboWarp-Visual-Tracking
 
+<img src="assets/block-icon.svg" alt="" width="48" height="48">
+
 [日本語](README.ja.md)
 
 Initial TurboWarp extension scaffold for visual-tracking. This repository is based on `turbowarp-extension-template` v0.4.0. The proposed runtime algorithms are not implemented yet.
