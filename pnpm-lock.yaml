@@ -12,10 +12,10 @@ importers:
         specifier: ^9.39.5
         version: 9.39.5
       '@kubohiroya/turbowarp-extension-manifest':
-        specifier: 0.2.0
+        specifier: "^0.2.0"
         version: 0.2.0
       '@kubohiroya/vite-plugin-turbowarp-extension':
-        specifier: 0.3.0
+        specifier: "^0.3.0"
         version: 0.3.0(vite@8.2.2(@types/node@24.13.3)(esbuild@0.28.1))
       '@types/node':
         specifier: ^24.13.3
