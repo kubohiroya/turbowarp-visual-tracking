@@ -2,7 +2,7 @@
 
 <img src="assets/block-icon.svg" alt="" width="48" height="48">
 
-[English](README.md) | **日本語**
+[English](README.md) | 日本語
 
 `turbowarp-extension-template` v0.4.0を元にした初期雛形です。現時点ではサンプルの挨拶ブロックのみ動作し、以下の機能は未実装です。
 
