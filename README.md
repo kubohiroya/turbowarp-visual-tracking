@@ -88,7 +88,7 @@ pnpm run test
 pnpm run repo:check
 ```
 
-Package identity: `@kubohiroya/turbowarp-visual-tracking@0.1.0` (local scaffold, not a published installation).
+Package identity: `@kubohiroya/turbowarp-visual-tracking@0.2.0` (initial scaffold; tracking algorithms are not implemented).
 Bundle: `dist/visual-tracking.js`. Contract: `dist/extension-manifest.json`.
 
 `pnpm run check` additionally checks generated files against Git. Run it after the initial files have been committed. No initial commit or remote publication is performed by scaffolding.
