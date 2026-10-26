@@ -1,7 +1,7 @@
 {
   "name": "@kubohiroya/turbowarp-visual-tracking",
   "version": "0.2.0",
-  "description": "\u30ab\u30e1\u30e9\u59ff\u52e2\u8ffd\u8de1\u306e\u5171\u901a\u57fa\u76e4 for TurboWarp (initial scaffold; algorithms not implemented).",
+  "description": "カメラ姿勢追跡の共通基盤 for TurboWarp (initial scaffold; algorithms not implemented).",
   "author": "Hiroya Kubo <hiroya@cuc.ac.jp>",
   "license": "MPL-2.0",
   "homepage": "https://github.com/kubohiroya/turbowarp-visual-tracking#readme",
@@ -35,9 +35,9 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "packageManager": "pnpm@11.11.0",
+  "packageManager": "pnpm@11.28.8",
   "engines": {
-    "node": ">=22.18.0"
+    "node": ">=24"
   },
   "scripts": {
     "dev": "vite build --watch",
