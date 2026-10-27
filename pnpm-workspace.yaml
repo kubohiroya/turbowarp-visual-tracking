@@ -4,3 +4,5 @@ minimumReleaseAgeExclude:
   - '@kubohiroya/vite-plugin-turbowarp-extension@0.3.0'
   - '@kubohiroya/vite-plugin-turbowarp-extension@0.8.0'
   - '@kubohiroya/turbowarp-extension-manifest@0.3.2'
+  - '@kubohiroya/turbowarp-extension-manifest@0.4.0'
+  - '@kubohiroya/vite-plugin-turbowarp-extension@0.9.0'
