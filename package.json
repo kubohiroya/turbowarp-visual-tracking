@@ -1,6 +1,6 @@
 {
   "name": "@kubohiroya/turbowarp-visual-tracking",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "カメラ姿勢追跡の共通基盤 for TurboWarp (initial scaffold; algorithms not implemented).",
   "author": {
     "name": "Hiroya Kubo",
@@ -60,7 +60,7 @@
   "devDependencies": {
     "@eslint/js": "^9.39.5",
     "@kubohiroya/turbowarp-extension-manifest": "^0.5.0",
-    "@kubohiroya/vite-plugin-turbowarp-extension": "^0.10.0",
+    "@kubohiroya/vite-plugin-turbowarp-extension": "^0.11.0",
     "@types/node": "^24.13.3",
     "eslint": "^9.39.5",
     "typescript": "^5.9.3",
