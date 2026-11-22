@@ -12,8 +12,8 @@ importers:
         specifier: ^9.39.5
         version: 9.39.5
       '@kubohiroya/turbowarp-extension-manifest':
-        specifier: ^0.5.0
-        version: 0.5.0
+        specifier: ^0.6.0
+        version: 0.6.0
       '@kubohiroya/vite-plugin-turbowarp-extension':
         specifier: ^0.11.0
         version: 0.11.0(vite@8.2.2(@types/node@24.13.3)(esbuild@0.28.1))
@@ -262,8 +262,8 @@ packages:
   '@jridgewell/trace-mapping@0.3.31':
     resolution: {integrity: sha512-zzNR+SdQSDJzc8joaeP8QQoCQr8NuYx2dIIytl1QeBEZHJ9uW6hebsrYgbz8hJwUQao3TWCMtmfV8Nu1twOLAw==}
 
-  '@kubohiroya/turbowarp-extension-manifest@0.5.0':
-    resolution: {integrity: sha512-YD8fwGTwTC6oMinmVLRp5+x/6piKLTYNraKnsc+oEi/w6NFdePm1ocV8eHnBBMcqEO2usr2mI/0qnV66Ex35YA==}
+  '@kubohiroya/turbowarp-extension-manifest@0.6.0':
+    resolution: {integrity: sha512-GnNFESu2EeyrFkuxOQoFsEta3HwnNjen0PJm7DOOy2wPuqItqaogEUq80ccnJ/GwfVwfMS9V5Eddsga5CbF+Mw==}
     engines: {node: '>=24'}
 
   '@kubohiroya/vite-plugin-turbowarp-extension@0.11.0':
@@ -1194,7 +1194,7 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.5
 
-  '@kubohiroya/turbowarp-extension-manifest@0.5.0': {}
+  '@kubohiroya/turbowarp-extension-manifest@0.6.0': {}
 
   '@kubohiroya/vite-plugin-turbowarp-extension@0.11.0(vite@8.2.2(@types/node@24.13.3)(esbuild@0.28.1))':
     dependencies:
